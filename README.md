@@ -4,7 +4,7 @@ In this assignment let's build a **Feedback App** by applying the concepts we ha
 
 <br/>
 <div style="text-align: center;">
---https://assets.ccbp.in/frontend/content/react-js/feedback-app-output.gif--
+-- https://assets.ccbp.in/frontend/content/react-js/feedback-app-output.gif --
 
 <img src="https://assets.ccbp.in/frontend/content/react-js/feedback-app-output.gif" alt="feedback-large-output" style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
 
